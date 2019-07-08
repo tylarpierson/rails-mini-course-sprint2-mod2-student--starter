@@ -1,4 +1,4 @@
-# Rails Mini Course - Sprint 2 - Module 2 - You Do (Solution)
+# Rails Mini Course - Sprint 2 - Module 2 - You Do (Starter)
 
 ## Setup
 
