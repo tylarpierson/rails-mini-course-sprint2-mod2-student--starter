@@ -1,4 +1,4 @@
-# Rails Mini Course - Sprint 2 - Module 2 - You Do (Starter)
+# Ruby on Rails - Intermediate Ruby on Rails - Business Logic - Project
 
 ## Setup
 
